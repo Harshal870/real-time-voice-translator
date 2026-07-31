@@ -60,7 +60,7 @@ Key goals:
 
 1. **Clone the repo**
 ```bash
-git https://github.com/RakeshBabuGajula/real-time-voice-translator
+git https://github.com/Harshal870/real-time-voice-translator
 cd linguasync
 ```
 
